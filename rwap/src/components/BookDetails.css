@@ -1,0 +1,20 @@
+/* components/BookDetails.css */
+
+.book-details-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .book-details-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .book-details-item {
+    margin-bottom: 5px;
+  }
+  
+  .borrower-info {
+    font-style: italic;
+  }
+  

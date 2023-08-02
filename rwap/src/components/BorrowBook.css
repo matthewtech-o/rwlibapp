@@ -1,0 +1,20 @@
+/* components/BorrowBook.css */
+
+.borrow-book-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .borrow-book-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .borrow-book-container input {
+    margin-right: 10px;
+  }
+  
+  .borrow-book-container button {
+    margin-top: 10px;
+  }
+  
